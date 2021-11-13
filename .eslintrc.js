@@ -42,6 +42,7 @@ module.exports = {
     'react/no-array-index-key': 'off',
     'no-param-reassign': 'off',
     'no-console': 'error',
+    'react/jsx-props-no-spreading': 'off',
   },
   overrides: [
     {
