@@ -66,7 +66,7 @@ module.exports = (env) => {
       historyApiFallback: true,
       static: path.join(__dirname, 'public'),
       host: 'localhost',
-      port: 4200,
+      port: 4000,
       /**
        * TODO: use a solid solution for the proxy and for all enviornments
        * see server/proxies/api.js for current proxy defined in composer

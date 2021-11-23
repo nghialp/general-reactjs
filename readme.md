@@ -15,6 +15,9 @@ npm install --save react-bootstrap bootstrap
 npm i --save @fortawesome/fontawesome-svg-core
 npm install --save @fortawesome/free-solid-svg-icons
 npm install --save @fortawesome/react-fontawesome
-npm install --save @fortawesome/react-fontawesome
+npm install @hookform/resolvers yup
 
-
+// template
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/material @mui/styled-engine-sc styled-components
+npm install @mui/icons-material
